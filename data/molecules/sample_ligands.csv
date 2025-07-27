@@ -1,0 +1,8 @@
+smiles,name,molecular_weight,activity
+CCO,Ethanol,46.07,inactive
+CCN,Ethylamine,45.08,inactive
+c1ccccc1,Benzene,78.11,inactive
+CC(=O)O,Acetic_acid,60.05,inactive
+CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Caffeine,194.19,active
+CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,Ibuprofen,206.28,active
+CC1=CC=C(C=C1)C(=O)O,p-Toluic_acid,136.15,active
