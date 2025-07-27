@@ -1,0 +1,5 @@
+name,description,pdb_id,binding_site_residues
+Cyclooxygenase-1,COX-1 enzyme,1EQG,"ARG120,TYR355,SER530"
+Cyclooxygenase-2,COX-2 enzyme,1CX2,"ARG120,TYR355,ILE523"
+Acetylcholinesterase,AChE enzyme,1ACE,"TRP84,PHE330,HIS440"
+Beta-lactamase,Antibiotic resistance enzyme,1BTL,"SER70,LYS73,SER130"
